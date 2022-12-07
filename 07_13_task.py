@@ -30,6 +30,7 @@ def main():
             print('Вы решили выйти из программы!')
             break
 
+    file_list.close()
 
 if __name__ == '__main__':
     main()
